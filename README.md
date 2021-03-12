@@ -57,6 +57,10 @@ It has a Card for each team member with their Job title displayed vertically. Us
 
 Added Animations to header and the team card.
 
+Things that can be done:
+1. Create a json file for the team list & using states & props, update the team list
+2. Find a way to style cards individually in grids.
+
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
