@@ -52,14 +52,13 @@ This challenges is about creating a simple Team Page using HTML, CSS. It has a h
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
-I Used React and Tailwind CSS. Didn't use Props and states as it is a simple team page.
+I Used React and Tailwind CSS. Create a JSON file with the team details. Used props, state. Used `fetch()` to get the json file and update the state.
 It has a Card for each team member with their Job title displayed vertically. Used `writing-mode` css property (It is yet to be supported in Tailwind CSS). 
 
 Added Animations to header and the team card.
 
 Things that can be done:
-1. Create a json file for the team list & using states & props, update the team list
-2. Find a way to style cards individually in grids.
+1. Find a way to style cards individually in grids.
 
 ## Acknowledgements
 
