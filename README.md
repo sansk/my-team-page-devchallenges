@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-team-page-sansk.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -56,6 +56,10 @@ I Used React and Tailwind CSS. Didn't use Props and states as it is a simple tea
 It has a Card for each team member with their Job title displayed vertically. Used `writing-mode` css property (It is yet to be supported in Tailwind CSS). 
 
 Added Animations to header and the team card.
+
+Things that can be done:
+1. Create a json file for the team list & using states & props, update the team list
+2. Find a way to style cards individually in grids.
 
 ## Acknowledgements
 
