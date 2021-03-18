@@ -1,0 +1,38 @@
+[
+    {
+        "id":"member1",
+        "name": "Bill Mahoney",
+        "image": "./images/photo1.png",
+        "role": "Product Owner"
+    },
+    {
+        "id":"member2",
+        "name": "Saba Cabrera",
+        "image": "./images/photo2.png",
+        "role": "Art Director"
+    },
+    {
+        "id":"member3",
+        "name": "Shae Le",
+        "image": "./images/photo3.png",
+        "role": "Tech Lead"
+    },
+    {
+        "id":"member4",
+        "name": "Skylah Lu",
+        "image": "./images/photo4.png",
+        "role": "Art Designer"
+    },
+    {
+        "id":"member5",
+        "name": "Griff Richards",
+        "image": "./images/photo5.png",
+        "role": "Developer"
+    },
+    {
+        "id":"member6",
+        "name": "Stan John",
+        "image": "./images/photo6.png",
+        "role": "Developer"
+    }
+]
